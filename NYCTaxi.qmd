@@ -115,7 +115,7 @@ for i in range(150):
         fig3.data[i]['name'] += ' (pickup/dropoff)'
 ```
 
-# 기말고사1-(1),(2)
+# NewYork Taxi heatmap
 
 ```{python}
 #| title: 요일,시간에 따른 평균속력 시각화        
@@ -127,7 +127,7 @@ fig1.show()
 fig2.show()
 ```
 
-# 기말고사1-(3)
+# NewYork Taxi map having line of speed 
 
 ```{python}
 #| title: 속력별 경로 시각화
